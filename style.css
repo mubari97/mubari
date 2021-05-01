@@ -14,3 +14,14 @@
 section {
     padding-top: 5rem;
 }
+
+.gallery-img {
+    width: 100%;
+}
+
+/* mengatur padding yang ada didalam row */
+/* atur semua padding apapun yang ada didalamnya setelah tag row  */
+
+#gallery .row > * {
+    padding: 0;
+}
